@@ -1,0 +1,8 @@
+{
+  "project": "DSAmplify",
+  "version": "1.0.0",
+  "settings": {
+    "theme": "light",
+    "defaultLanguage": "Java"
+  }
+}
